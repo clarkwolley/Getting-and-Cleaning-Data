@@ -1,4 +1,4 @@
-# For future use CodeBook
+# CodeBook
 This CodeBook describes the variables, the data, and any transformations or work that you performed to clean up the data.
 The original data source
 
