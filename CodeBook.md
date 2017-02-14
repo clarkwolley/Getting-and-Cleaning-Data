@@ -39,9 +39,6 @@ The following files are available for the train and test data. Their description
 
     'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-Tidy Dataset Details
-Activities 
-
 
 Transformation details
 
@@ -62,3 +59,13 @@ How run_analysis.R implements the above steps:
     Process the data. There are two parts processing test and train data respectively.
     Merge data set.
     Write tidy data set out for upload to Github and Coursera
+
+Tidy Dataset Details
+    
+    Activities 
+    WALKING
+    WALKING_UPSTAIRS
+    WALKING_DOWNSTAIRS
+    SITTING
+    STANDING
+    LAYING
