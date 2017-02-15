@@ -70,7 +70,7 @@ Tidy Dataset Details
     STANDING
     LAYING
     
-        Features:
+        Features: These are means and standard deviations.
      [1] "tBodyAccMeanX"                "tBodyAccMeanY"               
      [3] "tBodyAccMeanZ"                "tBodyAccStdX"                
      [5] "tBodyAccStdY"                 "tBodyAccStdZ"                
